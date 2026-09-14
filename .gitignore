@@ -1,4 +1,7 @@
 venv/
 __pycache__/
+*.pyc
+Spotify_Youtube.csv
+.ipynb_checkpoints/
 *.py[cod]
 .ipynb_checkpoints/
